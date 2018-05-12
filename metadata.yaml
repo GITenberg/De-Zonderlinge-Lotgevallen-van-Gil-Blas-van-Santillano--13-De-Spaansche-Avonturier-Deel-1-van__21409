@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6207
     wikipedia: http://en.wikipedia.org/wiki/Alain-René_Lesage
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21409#De-Zonderlinge-Lotgevallen-van-Gil-Blas-van-Santillano--13-De-Spaansche-Avonturier-Deel-1-van_
 gutenberg_issued: '2007-05-09'
 gutenberg_type: Text
 identifiers:
